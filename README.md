@@ -1,3 +1,12 @@
+> **下载说明**
+> 优先推荐从百度网盘下载（含完整 release 文件，可用提取码获取），无需访问 GitHub：
+> **百度网盘**：https://pan.baidu.com/s/1fK9Z6Gs9bp3O8BRa7i-jcA?pwd=ybj5
+>
+> **夸克网盘**：https://pan.quark.cn/s/671e6dce8cff
+>
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/StudyOnTV-CN/releases) 下载。
+
+
 <div align="center">
 
 # 题了个题 · 平板 / 手机 / TV
